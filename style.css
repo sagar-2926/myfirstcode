@@ -1,0 +1,382 @@
+.new-course-notification-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.new-course-notification-container{ 
+   background-color: #ffffb3;
+
+}
+.course-name{
+    font-weight: bold;
+    font-size: 25px;
+}
+.course-name1{
+    font-weight: bold;
+}
+.pic{
+ width: 650px;
+ height: 500px;
+ margin-right: 250px;
+ padding-left: 100px;
+ padding-top: 50px;
+}
+.logo{
+    height: 20px;
+    width: 20px;
+}
+  .navbar{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: #c2f0f0;
+
+  }
+   .heading{
+    font-size: 50px; font-weight: bold;
+    
+ }
+ .photoA{
+    flex-direction: row;
+    display: flex;
+ }
+   .headingA{
+
+    font-size: 30px;
+   }
+   .header{
+    font-size: 35px;
+    text-align: center;
+   }
+
+   .main{
+    flex-direction: row;
+    display: flex;
+   }
+   .sagar{
+    height: 450px;
+    width: 350px;
+    border: 0.5px solid #ffffff;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #ccffff; 
+    margin-left: 100px;
+   }
+   .photo1{
+    height: 200px;
+    width: 350px;
+    border-radius: 15px;
+   }
+   
+   .photo2{
+    height: 200px;
+    width: 350px;
+    border-radius: 15px;
+   }
+   .course2{
+    margin-top: 30px;
+   }
+   .photo3{
+    height: 200px;
+    width: 350px;
+    border-radius: 15px;
+   }
+   .btn{
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+   }
+   .btnA{
+    height: 40px;width: 140px;
+    background-color:black;
+    color:white;
+    border-radius: 10px;
+   }
+   .btnB{
+    height: 40px;width: 120px;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    margin-top: 20px;
+   }
+    .course2{
+        flex-direction: row;
+    display: flex;
+    }
+   .c-programming{
+    height: 450px;
+    width: 350px;
+    border: 1px solid #ffffff;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #ccffff; 
+    margin-left: 150px;
+    margin-top: 50px;
+   }
+   .photo4{
+    height: 200px;
+    width: 350px;
+    border-radius: 15px;
+   }
+   .dsa{
+    height: 450px;
+    width: 350px;
+    border: 1px solid #ffffff;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #ccffff; 
+    margin-left: 50px;
+    margin-top: 50px;
+   }
+   .photo5{
+    height: 200px;
+    width: 350px;
+    border-radius: 15px;
+   }
+   .header2{
+    font-size: 35px;
+    text-align: center;
+   }
+   .header3{
+    font-size: 25px;
+   text-align: center;
+    
+   }
+   .header4{
+    font-size: 35px;
+    text-align: center;
+   }
+   .header5{
+    font-size: 25px;
+    text-align: center;
+   }
+   .teachers{
+    flex-direction: row;
+    display: flex;
+   }
+   .surajsir{
+    height: 350px;
+    width: 250px;
+    border: 1px solid #ffffff;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    border-bottom: 5px solid black;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 0 8px 30px darkslateblue;
+   }
+    .surajphoto{
+         width: 250px;
+         height: 250px
+
+    }
+   .pinkimam{
+    height: 350px;
+    width: 250px;
+    border: 1px solid #ffffff;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    border-bottom: 5px solid black;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 0 8px 30px darkslateblue;
+    
+   }
+   .pinkiphoto{
+    width: 250px;
+     height: 250px
+   }
+   
+   .anandsir{
+    height: 350px;
+    width: 250px;
+    border: 1px solid #ffffff;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    border-bottom: 5px solid black;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 0 8px 30px darkslateblue;
+   }
+   .anandphoto{
+    width: 250px;
+    height: 250px;
+
+   }
+   .vaishmam{
+    height: 350px;
+    width: 250px;
+    border-bottom: 5px solid black;
+    margin-right: 30px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+    box-shadow: 0 8px 30px darkslateblue;
+   }
+   .vaishphoto{
+    width: 250px;
+    height: 250px
+   }
+   .logo2{
+    height: 45px;
+    width: 45px;
+    margin-left: 10px;
+    
+   }
+   .linkgit{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+   }
+   .header6{
+    text-align: center;
+    font-size: 40px;
+   }
+    .lastlogo{
+        flex-direction: row;
+    display: flex;
+
+    }
+    .linklogo{
+      height: 150px;
+      width: 150px;
+      background-color:#ffffff;
+      margin-top: 20px;
+      margin-left: 200px;
+      display: flex;
+      justify-content: center;
+      border-radius: 50%;
+      align-items: center;
+      box-shadow: 0 8.5px 13px #483d8b;
+    }
+    .gitlogo{
+        height: 150px;
+        width: 150px;
+        background-color:#ffffff;
+        margin-top: 20px;margin-left: 150px;
+        display: flex;
+      justify-content: center;
+      border-radius: 50%;
+      align-items: center;
+      box-shadow: 0 8.5px 13px #483d8b;
+
+    }
+    
+    .youlogo{
+        height: 150px;
+        width: 150px;
+        background-color:#ffffff;
+        margin-top: 20px;
+        margin-left: 150px;
+        display: flex;
+      justify-content: center;
+      border-radius: 50%;
+      align-items: center;
+      box-shadow: 0 8.5px 13px #483d8b;
+
+      }
+    
+    .instalogo{
+        height: 150px;
+      width: 150px;
+      background-color:#ffffff;
+      margin-top:20px;
+      margin-left: 150px;
+      display: flex;
+      justify-content: center;
+      border-radius: 50%;
+      align-items: center;
+      box-shadow: 0 8.5px 13px #483d8b;
+    }
+    .logopic{
+        height: 100px;
+      width: 80px;
+      align-items: center;
+      
+    }
+    .footer-main
+    {
+        display: flex;
+        margin-top: 65px;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        color: #ffffff;
+    }
+    .footer-cont
+    {
+        width: 300px;
+    }
+    
+    .png-ts
+    {
+        display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    .deco
+    {
+        text-decoration: none;
+        color: #ffffff;
+        flex-direction: column;
+        display: flex;
+    }
+    .headA{
+        font-size:35px;
+        color: #4285f4;
+        margin-left: 100px;
+    }
+    .headB{
+        font-size: 30px;
+        margin-left: 100px;
+    }
+    .AAA{
+            height: 40px;
+            width: 40px;
+            border: 2px solid  #ffe0b3;
+            background-color: #f2f2f2;
+            border-radius: 3px;        
+       }
+    .TEXT{
+        font-size: 24px;
+    }
+    .live-structure{
+        background-color: #fff;
+    border: 1px solid #e2e4e8;
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 10px;
+    }
+
+    .feature-container
+    {
+        display: block;;
+        width: 348px;
+    }
+    .course-card-img
+    {
+        height: 345px;
+        width: 370px;  
+    }
+.course-card
+    {
+        display: flex;
+        justify-content: space-around;
+    }
